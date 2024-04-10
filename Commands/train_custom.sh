@@ -1,0 +1,1 @@
+python -m yolox.tools.train -n yolox-tiny -c yolox_tiny_f.pth -d 1 -b 8 --fp16 -o --cache

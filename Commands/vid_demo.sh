@@ -1,0 +1,1 @@
+python tools/demo.py video -n yolox-tiny -c "C:\Users\Justin Moon\BlackIce\YOLOX_outputs\yolox_tiny\yolox_tiny_f.pth" --path "C:\Users\Justin Moon\BlackIce\KakaoTalk_20240224_005937175.mp4" --conf 0.7 --nms 0.65 --tsize 416 --save_result --device gpu
